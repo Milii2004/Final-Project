@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: #AF467C;
+}
+
+.portfolio{
+  float: left;
+  margin-left: 20px;
+  font-size: 15px;
+  color: #942192;
+}
+
+/* Topnav */
+.topnav {
+  overflow: hidden;
+  background-color: #ffffff;
+  border-radius: 8px;
+}
+
+.topnav a {
+  float: right;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.topnav a:hover {
+  background-color: #f1c9fe;
+  color: #ffffff;
+}

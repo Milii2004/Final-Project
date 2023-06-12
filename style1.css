@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: #fB97AE;
+}
+
+.portfolio{
+  float: left;
+  margin-left: 20px;
+  font-size: 15px;
+  color: #E1C0FF;
+}
+
+/* Topnav */
+.topnav {
+  overflow: hidden;
+  background-color: #FFF7AB;
+  border-radius: 8px;
+}
+
+.topnav a {
+  float: right;
+  color: #E1C0FF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.topnav a:hover {
+  background-color: #f1c9fe;
+  color: #ffffff;
+}
+
+/* 10th grade Projects */
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  height: 300px;
+  border-radius:25%;
+}
+
+
+/* Clear floats after the columns*/
+.row {
+  text-align: center;
+  margin: 25px;
+}

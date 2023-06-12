@@ -1,0 +1,122 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: #AF467C;
+}
+
+.portfolio{
+  float: left;
+  margin-left: 20px;
+  font-size: 15px;
+  color: #9421html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: #AF467C;
+}
+
+.portfolio{
+  float: left;
+  margin-left: 20px;
+  font-size: 15px;
+  color: #942192;
+}
+
+/* Topnav */
+.topnav {
+  overflow: hidden;
+  background-color: #ffffff;
+  border-radius: 8px;
+}
+
+.topnav a {
+  float: right;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.topnav a:hover {
+  background-color: #f1c9fe;
+  color: #ffffff;
+}92;
+}
+
+/* Topnav */
+.topnav {
+  overflow: hidden;
+  background-color: #ffffff;
+  border-radius: 8px;
+}
+
+.topnav a {
+  float: right;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.topnav a:hover {
+  background-color: #f1c9fe;
+  color: #ffffff;
+}
+
+/* two divs */
+
+* {
+  box-sizing: border-box;
+}
+
+/* Information */
+.column1 {
+  float: left;
+  width: 28%;
+  height: 800px;
+  margin-top: 10px;
+}
+
+.title{
+  color: white;
+  font-family: fantasy;
+}
+
+/* Important Projects */
+.column2 {
+  float: right;
+  width: 70%;
+  padding: 10px;
+  height: 800px;
+}
+
+.inner {
+  margin: 20px;
+  padding: 1px;
+  float: left;
+  width:45%;
+}
+
+.pjt{
+  border-radius: 25%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.resume{
+  border-style: dotted;
+  border-width: 5px;
+  border-color: yellow;
+}
